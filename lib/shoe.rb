@@ -44,11 +44,7 @@ def cobble=(cobble)
 end
 
 def cobble
+  @condition = new
   puts "Your shoe is as good as new!"
 end
-
-def condition_new
-@condition_new = condition_new
-end
-puts conditon
 end
